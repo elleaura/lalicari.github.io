@@ -1,3 +1,24 @@
 <!DOCTYPE html>
 <html lang = "en">
 <head>
+  <title>Homepage</title>
+  <meta charset="utf-8">//character encoding (8 bits)
+  <meta name="viewport" content="width=device-width, initial-scale=1">//adds flexibility for viewing webpages on different devices
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+  <script>
+  //for implementing ajax
+  </script>
+</head>
+
+<body>
+  <div class="container">
+    <div class = "jumbotron">
+      <h1> Hi there. I'm Laura Licari. </h1>
+      <hr class= "faded">
+    </div>
+</body>
