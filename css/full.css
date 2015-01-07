@@ -13,6 +13,13 @@ svg {
   pointer-events: none; /* so that you can resize the element */
 }
 
+section.bio{
+  margin: 0;
+  padding: 0 25px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 text {
   fill: url(#filler);
   text-anchor: middle;
