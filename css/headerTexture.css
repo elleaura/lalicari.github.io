@@ -1,9 +1,5 @@
-/*body {
-  background: #e0e0e0;
-}*/
-
 clipped-title1 {
-  background: url('/Users/laura/lalicari.github.io/images/beach.jpeg');
+  background: url("/Users/laura/lalicari.github.io/images/beach.jpeg");
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
