@@ -1,0 +1,7 @@
+#clipped-title1 {
+    background: url(../images/beach.jpg) no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
