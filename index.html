@@ -24,13 +24,16 @@
 
 <body>
   <div class ="container">
-    <img class="svg-clip" src="images/beach.jpeg"/>
-    <svg height="0" width="0">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="700" height="400" >
+      <!-- add title for accessibility -->
+      <title>Applying a patterned background to text in SVG</title> -->
+      <!-- Source: http://lea.verou.me/2012/05/text-masking-the-standards-way/ -->
       <defs>
-        <clippath id="svgPath">
-          <text > Hi there, I'm Laura Licari. </text>
-        </clippath>
+        <pattern id="filler" patternUnits="userSpaceOnUse" width="400" height="400" >
+          <image xlink:href="img/beach.jpeg" width="1200" height="600" preserveAspectRatio="none" />
+        </pattern>
       </defs>
+      <text x="100" y="70%" font-size="200" fill="url(#filler)">Hi there, I'm Laura Licari.</text>
     </svg>
     <hr class= "faded">
   </div>
