@@ -1,4 +1,4 @@
-body {
+/*body {
   background: #e0e0e0;
 }
 
@@ -35,13 +35,13 @@ header h1 {
   text-shadow: 0 0 1px rgba(0,0,0,.1);
   margin: 0;
   padding: 0;
-}
+}*/
 
-/*#clipped-title1 {
+#clipped-title1 {
   color: red;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent),
   url(/Users/laura/lalicari.github.io/images/beach.jpeg) repeat;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
-}*/
+}
