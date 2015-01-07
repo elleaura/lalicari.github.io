@@ -14,6 +14,13 @@ svg {
   margin: auto
 }
 
+container1{
+  width: 60%; height: 100%
+  margin: 60px auto;
+  max-width: 500px;
+  overflow: hidden;
+}
+
 p {
   display: block;
   margin: 100px 100px
