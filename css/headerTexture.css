@@ -3,7 +3,7 @@ body {
 }
 
 #clipped-title1 {
-  background: url(../images/beach.jpeg) no-repeat center center;
+  background: url(/images/beach.jpeg) no-repeat center center;
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
