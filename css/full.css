@@ -23,8 +23,6 @@ container1{
 }
 
 p {
-  display: block;
-  margin: 100px 100px
   -webkit-margin-before: 1em;
   -webkit-margin-after: 1em;
   -webkit-margin-start: 0px;
