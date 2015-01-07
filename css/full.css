@@ -2,7 +2,7 @@ body {
   margin-top: 50px;
 }
 
-.svgClipped {
+.svg-clip {
   -webkit-clip-path: url(#svgPath);
   clip-path: url(#svgPath);
   margin:0 auto;
