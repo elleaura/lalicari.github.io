@@ -2,8 +2,25 @@ body {
   background: #e0e0e0;
 }
 
+header h1 {
+  font-size: 40px;
+  font-family: Lato, sans-serif;
+  color: #6f6f6f;
+  font-weight: 400;
+  text-shadow: 0 0 0 rgba(0,0,0,.4);
+  text-align: center;
+  margin: 20px 0 0;
+}
+
+.container-clip {
+  width: 960px;
+  margin: 0 auto;
+  background: #fff;
+  border: 2px solid #cdcdcd;
+}
+
 #clipped-title1 {
-  background: url(/images/beach.jpeg) no-repeat center center;
+  background: url(/Users/laura/lalicari.github.io/images/beach.jpeg) no-repeat center center;
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
@@ -12,6 +29,7 @@ body {
 
 #clipped-title1 h1 {
   font-size: 200px;
+  font-family: Anton, sans-serif;
   text-align: center;
   -webkit-transition: text-shadow 1s ease;
   text-shadow: 0 0 1px rgba(0,0,0,.1);
