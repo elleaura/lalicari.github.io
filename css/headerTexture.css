@@ -1,3 +1,7 @@
+body {
+  background: #e0e0e0;
+}
+
 #clipped-title1 {
   background: url(../images/beach.jpeg) no-repeat center center;
   background-size: cover;
