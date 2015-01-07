@@ -37,7 +37,7 @@ header h1 {
   padding: 0;
 }*/
 
-#clipped-title1 {
+clipped-title1 {
   color: red;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent),
