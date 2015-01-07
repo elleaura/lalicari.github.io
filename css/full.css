@@ -1,11 +1,9 @@
 body {
-  margin-top: 50px;
+  
 }
 
-.svg-clip {
-  -webkit-clip-path: url(#svgPath);
-  clip-path: url(#svgPath);
-  margin:0 auto;
+text {
+  fill: url(#filler);
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
