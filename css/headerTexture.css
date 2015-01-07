@@ -1,3 +1,13 @@
 body {
-  background-image: url("/Users/laura/lalicari.github.io/images/beach.jpeg");
+  margin-top: 50px;
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.full {
+  background: url("/Users/laura/lalicari.github.io/images/beach.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
