@@ -32,7 +32,7 @@ div{
 
 div.container1{
   width: 70%; height: 100%;
-  margin: 60px;
+  margin: 60px auto;
   max-width: 500px;
   overflow: hidden;
 }
