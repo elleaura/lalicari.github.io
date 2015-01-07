@@ -10,7 +10,14 @@
   -webkit-background-clip: text;
 }*/
 
-#clipped-title1 {
+svg {
+  width: 6em; height: 1.5em;
+  font: 900 500%/1.2 'Arial Black', sans-serif;
+}
+
+text { fill: url(#beach); }
+
+clipped-title1 {
   color: red;
   -webkit-text-fill-color: transparent;
   background: -webkit-linear-gradient(transparent, transparent),
