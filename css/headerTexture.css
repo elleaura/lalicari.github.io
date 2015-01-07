@@ -1,7 +1,8 @@
 #clipped-title1 {
-    background: url(../images/beach.jpg) no-repeat center center;
-    background-size: cover;
-    color: #fff;
+    color: red;
     -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url(/Users/laura/lalicari.github.io/images) repeat;
+    background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
