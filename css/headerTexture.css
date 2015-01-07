@@ -2,20 +2,14 @@
   background: #e0e0e0;
 }*/
 
-/*#clipped-title1 {
-  background: url('/Users/laura/lalicari.github.io/images/beach.jpeg') no-repeat center center;
+clipped-title1 {
+  background: url('/Users/laura/lalicari.github.io/images/beach.jpeg');
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-}*/
-
-svg {
-  width: 6em; height: 1.5em;
-  font: 900 500%/1.2 'Arial Black', sans-serif;
 }
 
-text { fill: url(#wood); }
 
 /*clipped-title1 {
   color: red;
