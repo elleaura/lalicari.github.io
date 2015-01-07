@@ -1,15 +1,3 @@
 body {
   background-image: url("/Users/laura/lalicari.github.io/images/beach.jpeg");
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
 }
-
-
-/*clipped-title1 {
-  color: red;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-  url('/Users/laura/lalicari.github.io/images/beach.jpeg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
-}*/
