@@ -39,7 +39,8 @@ section.bio{
 }
 
 #pusheenText {
-  font-size: 50px; /* Cancel the svg’s pointer-events */
+  font-size: 50px;
+  fill="url(#beach)"
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
