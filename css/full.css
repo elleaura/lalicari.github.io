@@ -11,12 +11,12 @@ svg {
   margin: auto
 }
 
-div{
-
+div.container{
+  margin:10px 30px;
 }
 
 div.container1{
-  width: 50%; height: 100%;
+  width: 70%; height: 100%;
   margin: 0px auto;
   overflow: hidden;
 }
