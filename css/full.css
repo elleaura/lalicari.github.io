@@ -46,7 +46,7 @@ section.bio{
   font-weight: 300;
 }
 
-text {
+div.text {
   fill: url(#filler);
   pointer-events: auto; /* Cancel the svg’s pointer-events */
   margin: 25px auto;
