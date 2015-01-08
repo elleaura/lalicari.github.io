@@ -38,13 +38,14 @@ section.bio{
   overflow: hidden;
   color: #333;
   font-weight: 300;
-  text-rendering: optimizeLegibility;
 }
 
 text {
   fill: url(#filler);
+  text-anchor: middle;
   pointer-events: auto; /* Cancel the svg’s pointer-events */
   margin: 25px auto;
+
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
