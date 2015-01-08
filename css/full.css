@@ -17,6 +17,7 @@ div.container{
   padding-left: 0px;
   width: auto; height: auto;
   vertical-align: middle;
+  text-align: middle;
 }
 
 div.container1{
@@ -44,7 +45,6 @@ section.bio{
 
 text {
   fill: url(#filler);
-  text-anchor: middle;
   pointer-events: auto; /* Cancel the svg’s pointer-events */
   margin: 12.5px auto;
   vertical-align: middle;
