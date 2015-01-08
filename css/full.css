@@ -7,8 +7,8 @@ div.svg {
 svg {
   width: 100%; height: 55%;
   pointer-events: none; /* so that you can resize the element */
-  display: block
-  margin: auto
+  display: block;
+  margin: 0 auto;
 }
 
 div.container{
