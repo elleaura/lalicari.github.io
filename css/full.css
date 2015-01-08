@@ -45,7 +45,6 @@ text {
   fill: url(#filler);
   pointer-events: auto; /* Cancel the svg’s pointer-events */
   margin: 25px auto;
-  vertical-align: middle;
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
