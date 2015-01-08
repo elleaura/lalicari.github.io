@@ -1,7 +1,5 @@
-div.svg {
-  width: 100%;
-  height: 75px;
-  margin: 25px auto;
+svg {
+  width: 6em; height: 1.5em;
 }
 
 div.container{
