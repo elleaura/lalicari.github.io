@@ -18,7 +18,7 @@ div.container{
   height: auto;
 }
 
-.pusheen{
+container-fluid.pusheen{
   position: absolute;
   left: 100px;
   top:100px;
