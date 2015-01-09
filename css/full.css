@@ -1,12 +1,10 @@
 div.clipped {
-  background: url("images/beach.jpeg") no-repeat center center;
-  background-size: cover;
-  color: #fff;
-  text-align: center;
-  padding: 2em;
-  /* -webkit-background-clip clips the background of the element to the text */
-  -webkit-text-fill-color: transparent; /* overrides the white text color in webkit browsers */
-  -webkit-background-clip: text;
+    color: red;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url("images/beach.jpeg") repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
 }
 
 container-fluid.pusheen{
