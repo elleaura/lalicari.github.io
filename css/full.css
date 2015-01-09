@@ -6,13 +6,8 @@
   -webkit-background-clip: text;
 }
 
-.navbar-brand
-{
-  position: absolute;
-  width: 100%;
-  left: 0;
-  text-align: center;
-  margin: auto;
+.navbar-nav>li {
+  float: none;
 }
 
 #clipped h1 {
