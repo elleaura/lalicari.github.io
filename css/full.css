@@ -1,4 +1,4 @@
-div.clipped {
+.clipped {
     color: red;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
