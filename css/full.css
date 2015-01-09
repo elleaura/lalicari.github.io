@@ -15,6 +15,10 @@
   font-size: 50px;
 }
 
+#alignPusheen{
+  vertical-align: baseline;
+}
+
 container-fluid.pusheen{
   position: absolute;
   left: 100px;
