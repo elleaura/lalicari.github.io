@@ -11,7 +11,7 @@
   -webkit-transition: text-shadow 1s ease;
   text-shadow: 0 0 1px rgba(0,0,0,.1);
   margin: 0;
-  padding: 0;
+  padding: 20px;
   font-size: 50px;
 }
 
