@@ -38,7 +38,7 @@ section.bio{
   font-weight: 300;
 }
 
-#pusheenText {
+text {
   font-size: 50px;
   fill: url(#beach);
 }
