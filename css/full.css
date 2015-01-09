@@ -16,6 +16,11 @@
     display: inline-block;
 }
 
+.navbar-default {
+  background-color: #ffffff; 
+  border-color: #e7e7e7;
+}
+
 #clipped h1 {
   text-align: center;
   -webkit-transition: text-shadow 1s ease;
