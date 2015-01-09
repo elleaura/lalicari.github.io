@@ -19,12 +19,7 @@
   vertical-align: baseline;
   width: 100px;
   height:100px;
-}
-
-container-fluid.pusheen{
-  position: absolute;
-  left: 100px;
-  top:100px;
+  margin: auto;
 }
 
 div.container1{
