@@ -1,14 +1,4 @@
-svg {
-  width: 70%; height: 15%;
-}
 
-/*div.container{
-  margin:10px 10px;
-  padding-right: 0px;
-  padding-left: 0px;
-  width: auto;
-  height: auto;
-}*/
 
 #clipped {
   background: url("images/beach.jpeg") no-repeat center center;
@@ -38,13 +28,6 @@ div.container1{
   overflow: hidden;
 }
 
-p {
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
-}
-
 section.bio{
   margin: 0px auto;
   text-align: center;
@@ -53,11 +36,3 @@ section.bio{
   color: #333;
   font-weight: 300;
 }
-
-text {
-  font-size: 50px;
-  fill: url(#beach);
-  word-wrap: normal;
-}
-
-/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
