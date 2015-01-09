@@ -11,8 +11,9 @@ div.container{
 }
 
 .clipped {
-  background: url(images/beach.jpeg) no-repeat center center;
+  background: url("images/beach.jpeg") no-repeat center center;
   background-size: cover;
+  color: #fff;
   text-align: center;
   padding: 2em;
   /* -webkit-background-clip clips the background of the element to the text */
