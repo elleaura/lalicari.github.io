@@ -10,6 +10,17 @@ div.container{
   height: auto;
 }
 
+.clipped {
+  background: url(images/beach.jpeg) no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  padding: 2em;
+  /* -webkit-background-clip clips the background of the element to the text */
+  -webkit-text-fill-color: transparent; /* overrides the white text color in webkit browsers */
+  -webkit-background-clip: text;
+}
+
+
 #datBeach{
   width: 400px;
   height: 430px;
