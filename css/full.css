@@ -3,7 +3,7 @@
     color: red;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url("/Users/laura/lalicari.github.io/images/beach.jpeg") repeat;
+    url(/Users/laura/lalicari.github.io/images/beach.jpeg) repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
