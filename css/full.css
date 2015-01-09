@@ -15,6 +15,11 @@
   }
 }
 
+.navbar-nav> li {
+    float: none;
+    display: inline-block;
+}
+
 #clipped h1 {
   text-align: center;
   -webkit-transition: text-shadow 1s ease;
