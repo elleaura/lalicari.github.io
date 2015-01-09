@@ -2,15 +2,15 @@ svg {
   width: 70%; height: 15%;
 }
 
-div.container{
+/*div.container{
   margin:10px 10px;
   padding-right: 0px;
   padding-left: 0px;
   width: auto;
   height: auto;
-}
+}*/
 
-.clipped {
+#clipped {
   background: url("images/beach.jpeg") no-repeat center center;
   background-size: cover;
   color: #fff;
