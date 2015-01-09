@@ -17,6 +17,8 @@
 
 #alignPusheen{
   vertical-align: baseline;
+  width: 100px;
+  height:100px;
 }
 
 container-fluid.pusheen{
