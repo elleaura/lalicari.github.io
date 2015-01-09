@@ -1,5 +1,5 @@
 #clipped {
-  background: url(/Users/laura/lalicari.github.io/images/beach.jpeg) no-repeat center center;
+  background: url('/Users/laura/lalicari.github.io/images/beach.jpeg') no-repeat center center;
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
