@@ -6,9 +6,6 @@
   -webkit-background-clip: text;
 }
 
-.navbar-nav>li {
-  float: none;
-}
 
 #clipped h1 {
   text-align: center;
