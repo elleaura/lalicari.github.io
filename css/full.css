@@ -1,6 +1,4 @@
-
-
-#clipped {
+div.clipped {
   background: url("images/beach.jpeg") no-repeat center center;
   background-size: cover;
   color: #fff;
@@ -11,11 +9,6 @@
   -webkit-background-clip: text;
 }
 
-
-#datBeach{
-  width: 400px;
-  height: 430px;
-}
 container-fluid.pusheen{
   position: absolute;
   left: 100px;
