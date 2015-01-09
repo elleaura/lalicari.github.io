@@ -1,11 +1,17 @@
-.clipped {
-    text-align: center;
-    color: red;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent);
-    background-image: url("images/beach.jpeg") repeat;
-    background: -o-linear-gradient(transparent, transparent);
-    -webkit-background-clip: text;
+#clipped {
+  background: url(images/beach.jpeg) no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+#clipped h1 {
+  text-align: center;
+  -webkit-transition: text-shadow 1s ease;
+  text-shadow: 0 0 1px rgba(0,0,0,.1);
+  margin: 0;
+  padding: 0;
 }
 
 container-fluid.pusheen{
