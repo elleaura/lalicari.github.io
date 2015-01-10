@@ -19,11 +19,11 @@
 .row{
   display:block;
   text-align:center;
+  width: 500px;
 }
 
 i.fa{
   margin: auto;
-  width: 500px;
 }
 
 hr {
