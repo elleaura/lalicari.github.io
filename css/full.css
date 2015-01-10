@@ -17,8 +17,8 @@
 }
 
 .row{
-  float:center;
-  margin:auto;
+  display:block;
+  text-align:center
 }
 
 hr {
