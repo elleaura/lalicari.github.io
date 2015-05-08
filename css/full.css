@@ -40,6 +40,15 @@ i.fa{
   margin: 18px;
 }
 
+.work{
+  margin: 0px auto;
+  text-align: center;
+  max-width: 500px;
+  overflow: hidden;
+  color: #333;
+  font-weight: 300;
+}
+
 hr {
   margin-top: 0px;
   margin-bottom: 0px;
@@ -79,4 +88,7 @@ section.bio{
   overflow: hidden;
   color: #333;
   font-weight: 300;
+}
+strong.lead{
+  font-weight: 500;
 }
